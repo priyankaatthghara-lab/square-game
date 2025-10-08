@@ -1,2 +1,1 @@
-# square-game
-this is a square game.
+this is a square game which is really going to give you different shapes on your screen.
